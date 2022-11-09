@@ -1,6 +1,6 @@
 # uptime-status公众仓库
 
-# 如何添加监视器？
+## 如何添加监视器？
 
 - 提交`issues`
 
@@ -12,6 +12,6 @@
 
 修改`config.js`
 
-# 个人站点监测项目地址
+## 个人站点监测项目地址
 
 https://github.com/ZGQ-inc/uptime-status
