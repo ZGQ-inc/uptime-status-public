@@ -1,4 +1,12 @@
-# uptime-status公众仓库
+# 站点监测公众版
+
+- Github pages
+
+https://zgq-inc.github.io/uptime-status-public/
+
+- Cloudflare pages
+
+https://uptime-status-public.pages.dev/
 
 ## 如何添加监视器？
 
